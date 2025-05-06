@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pet Adoption",
+    "imageSrc": "projects/project.png",
+    "description": "A mobile app for adopting pets, built using Flutter and backed by Node.js & PostgreSQL.",
+    "skills": ["Flutter", "Dart", "Node", "PostgreSQL"],
+    "demo": "https://github.com/Rooparatheesh/pet_adoption.git",
+    "source": "https://github.com/Rooparatheesh/pet_adoption.git"
+  },
+  {
+    "title": "Modelshop App",
+    "imageSrc": "projects/project.png",
+    "description": "A full-stack workflow management system for handling part assignments and task tracking.",
+    "skills": ["React", "Node", "PostgreSQL"],
+    "demo": "https://github.com/Rooparatheesh/modelshop-app.git",
+    "source": "https://github.com/Rooparatheesh/modelshop-app.git"
+  },
+  {
+    "title": "Sign Up App",
+    "imageSrc": "projects/project.png",
+    "description": "A simple app for creating user sign-ups and managing user accounts.",
+    "skills": ["Flutter", "Dart", "Node", "PostgreSQL"],
+    "demo": "https://github.com/Rooparatheesh/sign_up.git",
+    "source": "https://github.com/Rooparatheesh/sign_up.git"
+  }
+]
