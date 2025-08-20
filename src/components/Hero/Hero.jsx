@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Roopa Ratheesh</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 6 months of experience in React and Node.js, along with hands-on expertise in Flutter. Feel free to reach out to learn more! 🚀
+          I'm a full-stack developer with 11 months of experience in React and Node.js, along with hands-on expertise in Flutter. Feel free to reach out to learn more! 🚀
         </p>
         <a href="mailto:rooparatheesh2000@gmail.com" className={styles.contactBtn}>
           Contact Me
